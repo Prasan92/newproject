@@ -1,3 +1,0 @@
-This session is to introduce GIThub to you
-
-new version 3.0
